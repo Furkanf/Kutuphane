@@ -1,0 +1,70 @@
+﻿@model Kutuphane.Models.Book
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<div>
+    <h4>Kitap</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        @if (Model.userMap != null)
+        {
+
+            <dt>
+                @Html.DisplayNameFor(model => model.userMap.userId)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.userMap.userId)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.userMap.deliveryDate)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.userMap.deliveryDate)
+            </dd>
+
+        }
+
+        else
+        {
+
+            <h3> Kitap kütüphanemizdedir</h3>
+
+        }
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AuthorName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AuthorName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Image)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Geri Dön", "Index")
+</p>

@@ -1,0 +1,31 @@
+﻿@using Kutuphane.Date;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+    <br /><br />
+
+<h2>
+    @Html.ActionLink("Kitaplar", "Index", "Books", new { area = "Admin" }, new { @class = "" })
+</h2>
+<h2>
+    @Html.ActionLink("Kullanıcılar", "Index", "StandardUsers", new { area = "Admin" }, new { @class = "" })
+</h2>
+
+<hr />
+
+@using (Html.BeginForm("SetTime","Home"))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        <label for="">Gün</label>
+        <input type="number" class="form-control" id="day" name="day" placeholder="Zaman ötele">
+    </div>
+    <button type="submit" class="btn btn-primary">Ilerle</button>
+
+}
+
+
+
+<h1>Güncel Tarih : @Date.date.ToString("dd/MM/yyyy") </h1>

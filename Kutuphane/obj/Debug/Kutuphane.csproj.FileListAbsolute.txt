@@ -1,0 +1,277 @@
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojAssemblyReference.cache
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\Kutuphane.dll.config
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\Kutuphane.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\Kutuphane.pdb
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\csc.exe
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\csc.exe.config
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\csc.rsp
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\csi.exe
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\csi.exe.config
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\csi.rsp
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Console.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Net.Http.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Net.Sockets.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\vbc.exe
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\vbc.exe.config
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\vbc.rsp
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\Antlr3.Runtime.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\EntityFramework.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\Newtonsoft.Json.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.Helpers.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.Mvc.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.Optimization.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.Razor.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.WebPages.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\WebGrease.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\EntityFramework.xml
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.Helpers.xml
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.Mvc.xml
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.Optimization.xml
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.Razor.xml
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.WebPages.xml
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\Newtonsoft.Json.xml
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CopyComplete
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Migrations.v1.resources
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Migrations.v2.resources
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Migrations.v21.resources
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\Tesseract.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\x64\liblept172.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\x64\libtesseract304.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\x86\liblept172.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\x86\libtesseract304.dll
+C:\Users\baris\source\repos\Kutuphane\Kutuphane\bin\Tesseract.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\x64\liblept172.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\x64\libtesseract304.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\x86\liblept172.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\x86\libtesseract304.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\Kutuphane.dll.config
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\Kutuphane.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\Kutuphane.pdb
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\csc.exe
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\csc.exe.config
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\csc.rsp
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\csi.exe
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\csi.exe.config
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\csi.rsp
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Console.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Net.Http.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Net.Sockets.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\vbc.exe
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\vbc.exe.config
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\vbc.rsp
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\Antlr3.Runtime.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\EntityFramework.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\Newtonsoft.Json.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.Helpers.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.Mvc.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.Optimization.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.Razor.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.WebPages.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\Tesseract.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\WebGrease.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\EntityFramework.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.Helpers.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.Mvc.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.Optimization.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.Razor.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.WebPages.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\Newtonsoft.Json.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\Tesseract.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojAssemblyReference.cache
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Migrations.v1.resources
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Migrations.v2.resources
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Migrations.v21.resources
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CopyComplete
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.dll
+C:\Users\baris\Desktop\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csprojAssemblyReference.cache
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Migrations.v1.resources
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Migrations.v2.resources
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Migrations.v21.resources
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\obj\Debug\Kutuphane.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\x64\liblept172.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\x64\libtesseract304.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\x86\liblept172.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\x86\libtesseract304.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\Kutuphane.dll.config
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\Kutuphane.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\Kutuphane.pdb
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\csc.exe
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\csc.exe.config
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\csc.rsp
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\csi.exe
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\csi.exe.config
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\csi.rsp
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.AppContext.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Console.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.IO.Compression.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Net.Http.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Net.Sockets.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.ValueTuple.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\vbc.exe
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\vbc.exe.config
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\vbc.rsp
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\VBCSCompiler.exe
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\Antlr3.Runtime.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\EntityFramework.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\EntityFramework.SqlServer.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\Newtonsoft.Json.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.Helpers.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.Mvc.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.Optimization.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.Razor.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.WebPages.Deployment.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.WebPages.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.WebPages.Razor.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\Tesseract.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\WebGrease.dll
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\EntityFramework.xml
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\EntityFramework.SqlServer.xml
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.Helpers.xml
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.Mvc.xml
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.Optimization.xml
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.Razor.xml
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.WebPages.xml
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.WebPages.Deployment.xml
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\System.Web.WebPages.Razor.xml
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\Newtonsoft.Json.xml
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\Tesseract.xml
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\Antlr3.Runtime.pdb
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\furkn\Desktop\derslerim\yazlab\yaz lb 1\New folder\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CopyComplete
